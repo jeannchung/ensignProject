@@ -8,3 +8,4 @@ https://data.cms.gov/covid-19/covid-19-nursing-home-data/api-docs
 https://data.cms.gov/api-docs
 https://www.drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/filtering#filter-examples
 https://realpython.com/python-csv/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
